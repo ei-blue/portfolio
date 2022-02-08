@@ -127,7 +127,7 @@ section h2 span {
 }
 
 
-#sec03 .innerS img{
+#sec02 .innerS img{
 	display: inline-block;
 	width: 120px;
 	float: left;
@@ -135,9 +135,9 @@ section h2 span {
 }
 
 
-/* SEC05 CONTACT
+/* SEC03 CONTACT
 ------------------------------------------------------------*/
-#sec05 p{
+#sec03 p{
 	margin-bottom: 5px;
 }
 
@@ -148,11 +148,11 @@ section h2 span {
 }
 
 #sns img{
-	width: 10%;    /* width */
+	width: 10%; 
     height: auto; 
 	padding: auto;
 	margin-top: 10%;
-	/*padding: 35px 10px 5px 0;*/ 
+
 }
 
 #sns a:hover img{
@@ -206,7 +206,7 @@ section h2 span {
 	}
 	
 	
-	/* SEC03 PROJECT
+	/* SEC02 PROJECT
 	-----------------*/
 	.col3{
 		text-align: center;
